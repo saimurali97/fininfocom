@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "345871775139",
+    "project_id": "fininfocomapp-14b9d",
+    "storage_bucket": "fininfocomapp-14b9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345871775139:android:2b202a1b24843e26b11616",
+        "android_client_info": {
+          "package_name": "com.testing.fininfocomapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345871775139-p21nljko506oukmr7tcqqj6mv15lbkch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.testing.fininfocomapp",
+            "certificate_hash": "e2cb864c015b922bd78e22611e399870c946b34b"
+          }
+        },
+        {
+          "client_id": "345871775139-u52tgg40486opgchqnn1lmghmgo52bci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwkK7G-16Jk66nWR6A4TTmiVEjNb2I58Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345871775139-u52tgg40486opgchqnn1lmghmgo52bci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
