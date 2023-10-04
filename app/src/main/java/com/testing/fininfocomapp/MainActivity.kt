@@ -28,9 +28,9 @@ class MainActivity : AppCompatActivity() {
 
 
         val userDataList = listOf(
-            User("Zoro", 28, "Los Angeles"),
-            User("Luffy", 24, "Hyderabad"),
-            User("Nami", 26, "Tokyo"),
+            User("Kakashi", 28, "Los Angeles"),
+            User("Itachi", 24, "Hyderabad"),
+            User("Naruto", 26, "Tokyo"),
 
 
         )
